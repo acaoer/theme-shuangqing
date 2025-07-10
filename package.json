@@ -1,7 +1,7 @@
 {
-  "name": "halo-theme-sakura",
+  "name": "halo-theme-shuangqing",
   "private": true,
-  "description": "Halo 版本的樱花🌸主题",
+  "description": "基于开源主题的双清官网",
   "scripts": {
     "dev": "vite build --watch --mode development",
     "build": "tsc && vite build",
@@ -11,32 +11,29 @@
   },
   "keywords": [
     "halo",
-    "sakura",
-    "LIlGG",
-    "takagi",
-    "theme-sakura",
+    "theme-shuangqing",
     "halo-theme",
-    "halo-theme-sakura"
+    "halo-theme-shuangqing"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/LIlGG/halo-theme-sakura"
+    "url": "https://github.com/acaoer/theme-shuangqing"
   },
   "author": {
-    "name": "LIlGG",
-    "url": "https://github.com/LIlGG",
-    "email": "mail@e.lixingyong.com"
+    "name": "Yuanchao Li",
+    "url": "https://github.com/acaoer",
+    "email": "acaoer@qq.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LIlGG/halo-theme-sakura/issues"
+    "url": "https://github.com/acaoer/theme-shuangqing/issues"
   },
-  "homepage": "https://github.com/LIlGG/halo-theme-sakura#readme",
+  "homepage": "https://github.com/acaoer/theme-shuangqing#readme",
   "maintainers": [
     {
-      "name": "LIlGG",
-      "url": "https://github.com/LIlGG",
-      "email": "mail@e.lixingyong.com"
+      "name": "Yuanchao Li",
+      "url": "https://github.com/acaoer",
+      "email": "acaoer@qq.com"
     }
   ],
   "devDependencies": {
